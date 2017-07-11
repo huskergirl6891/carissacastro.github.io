@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Webflow
+title: BlocChat
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/1686132/webflow_landingpage_1x.jpg"
-short-description: BlocJams for iOS is awesome!
+thumbnail-path: "img/blocchat_1x_02.png"
+short-description: BlocChat is a messaging application built with AngularJS and Firebase.
 
 ---
 This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
