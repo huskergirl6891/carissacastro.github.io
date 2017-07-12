@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Bloc?
+title: A new adventure beings...
 ---
 Not even 20 minutes into my flight, I already downed one cup of coffee (black of course), pulled out my MacBook Pro, forked over $8 for United’s in-flight wi-fi, logged into Bloc, and started coding, excited to spend the rest of my time in the air working on the next checkpoint in the software developer program.  While still in the early phases of the program (I started 7 weeks ago), I’m loving every minute that I get to spend learning programming.  Well, probably not every minute…like that time where I spent a good couple hours trying to make a feature on my website work, only to find out that I was missing a “.” in a few spots.  That was a lot of fun.  But overall, it’s been a great experience so far.  I am amazed at how much I’ve learned already, and it’s so cool to see progress almost daily.  I’ve already built the a website from scratch, and even my husband (who has a computer science degree) was impressed, and told me that he doesn’t know how to build many of the features that I learned how to implement.  
 
