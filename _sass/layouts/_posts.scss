@@ -29,6 +29,7 @@ header {
     text-transform: uppercase;
   }
 }
+
 .feature-image {
   padding: 0%;
   .post-link {
@@ -37,6 +38,7 @@ header {
   header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
+    background-position: center center;
     margin-bottom: 0;
     padding: $padding-large/2.5 $padding-large;
     .meta {
@@ -46,4 +48,51 @@ header {
   .post-content {
     @extend %padding-regular;
   }
+}
+
+.feature-image .post-content form input[type="text"] {
+    width: 100%;
+    display: block;
+    padding: 0.5em;
+    margin: 0 0 1em;
+    border-radius: 6px;
+    border: 1px solid #cfcfcf;
+    box-shadow: none;
+}
+
+.feature-image .post-content form input[type="email"] {
+    width: 100%;
+    display: block;
+    padding: 0.5em;
+    margin: 0 0 1em;
+    border-radius: 6px;
+    border: 1px solid #cfcfcf;
+    box-shadow: none;
+}
+
+.feature-image .post-content form input[type="submit"] {
+    border-radius: 0.3em;
+    border: 1px solid #1ABC9C;
+    color: #1ABC9C;
+    background-color: #fff;
+    display: inline-block;
+    margin: 1em 0;
+    padding: 0.5em 0.75em
+}
+
+.feature-image .post-content form input[type="submit"]:hover {
+    background: #1ABC9C;
+    border: 1px solid #1ABC9C;
+    color: #fff;
+    text-decoration: none
+}
+
+.feature-image .post-content form textarea {
+    border-radius: 6px;
+    padding: 0.5em;
+    margin: 0 0 1em;
+    display: block;
+    width: 100%;
+    border: 1px solid #cfcfcf;
+    box-shadow: none
 }
