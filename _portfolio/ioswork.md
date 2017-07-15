@@ -16,9 +16,7 @@ The goal of the project was to create an iOS app that displays a picture from a 
 
 ## Solution
 
-The application was built using Objective-C, and Cocoapods was included to utilize the OAuth2Client service.  The first step of the project was to set up the project as a single view application.  The main area of the view utilized the UIImageView component to display the Instagram feed picture.  An initial image was included within the app so it could display before a user logs into Instagram.   
-
-
+The application was built using Objective-C, and Cocoapods was included to utilize the OAuth2Client service.  The first step of the project was to set up the project as a single view application.  The main area of the view utilized the UIImageView component to display the Instagram feed picture.  An initial image was included within the app so it could display before a user logs into Instagram.  For the app to access Instagram, OAuth 2.0 was used for secure login.
 
 ## Results
 
