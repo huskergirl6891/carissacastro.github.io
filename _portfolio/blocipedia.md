@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GrammyPlus
+title: Blocipedia
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "img/blocipedia.png"
 short-description: Blocipedia is a wiki application inspired by Wikipedia.
