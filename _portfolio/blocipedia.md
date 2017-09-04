@@ -8,7 +8,7 @@ short-description: Blocipedia is a wiki application inspired by Wikipedia.
 ---
 ## Summary
 
-GrammyPlus is an iOS app that allows users to log in to their Instagram account and then displays pictures from their feed in the app.
+Blocipedia is an application that allows users to create and edit wikis.  Users can also upgrade to a Premium account to create private wikis and add collaborators.
 
 ## Problem
 
